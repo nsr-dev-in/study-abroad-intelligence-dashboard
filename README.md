@@ -131,9 +131,9 @@ This project solves that problem by integrating educational, financial, career, 
 
 ## 🏠 Home Page
 
-The landing page introduces the project and provides navigation to all dashboard sections.
+![Home Page](images/dashbaord/home.png)
 
-![Home Page](images/home-page.png)
+The landing page introduces the project and provides navigation to all dashboard sections.
 
 ---
 
