@@ -300,20 +300,14 @@ Aspiring Data Analyst passionate about solving real-world business problems thro
 
 </p>
 
-<h1 align="center">⭐ Support</h1>
+<h1 align="center">🙌 Thank You</h1>
+
+Thank you for visiting this repository.
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
 
 <p align="center">
 
 Made with ❤️ by **Nitin Singh**
 
 </p>
-
-<h1 align="center">🙌 Thank You</h1>
-
-Thank you for visiting this repository.
-
-Happy Learning! 🚀
