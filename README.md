@@ -306,4 +306,4 @@ Thank you for visiting this repository.
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-<p align="center">Made with ❤️ by **Nitin Singh**</p>
+<p align="center">Made with ❤️ by Nitin Singh</p>
