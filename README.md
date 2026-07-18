@@ -259,9 +259,13 @@ Aspiring Data Analyst passionate about solving real-world business problems thro
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-It motivates me to build more real-world Data Analytics projects.
-
 ---
+
+<p align="center">
+
+Made with ❤️ by **Nitin Singh**
+
+</p>
 
 # 🙌 Thank You
 
