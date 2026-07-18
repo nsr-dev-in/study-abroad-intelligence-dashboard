@@ -305,5 +305,3 @@ Aspiring Data Analyst passionate about solving real-world business problems thro
 Thank you for visiting this repository.
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
-
-<p align="center">Made with ❤️ by Nitin Singh</p>
