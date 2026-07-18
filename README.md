@@ -36,7 +36,7 @@
 
 👉 **Click below to explore the live dashboard**
 
-### 🔗 https://YOUR_LIVE_WEBSITE_URL
+### 🔗 [https://YOUR_LIVE_WEBSITE_URL](http://studyabroadintelligenceplatform-env.eba-gimycafi.eu-north-1.elasticbeanstalk.com/)
 
 The live application enables users to compare study abroad destinations based on affordability, graduate salaries, ROI, scholarships, visa success rates, and career opportunities through an interactive interface.
 
