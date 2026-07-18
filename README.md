@@ -1,361 +1,288 @@
 # 🎓 Study Abroad Intelligence Dashboard for Indian Students
 
-> An End-to-End Data Analytics & Business Intelligence project that helps Indian students compare international study destinations using interactive dashboards and data-driven insights.
+> An End-to-End Data Analytics & Business Intelligence project that
+> helps Indian students compare international study destinations using
+> interactive dashboards and data-driven insights.
 
+```{=html}
 <p align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+```
+![Power
+BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Pandas-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
 
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
+```
+`<a href="http://studyabroadintelligenceplatform-env.eba-gimycafi.eu-north-1.elasticbeanstalk.com/">`{=html}
+`<img src="https://img.shields.io/badge/🚀-Live_Demo-success?style=for-the-badge">`{=html}
+`</a>`{=html}
 
-<a href="YOUR_LIVE_WEBSITE_URL">
-<img src="https://img.shields.io/badge/🚀%20Live-Demo-success?style=for-the-badge"/>
-</a>
+`<a href="https://github.com/nsr-dev-in/study-abroad-intelligence-dashboard">`{=html}
+`<img src="https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge">`{=html}
+`</a>`{=html}
 
-<a href="reports/Project_Report.pdf">
-<img src="https://img.shields.io/badge/📄%20Project-Report-blue?style=for-the-badge"/>
-</a>
+`<a href="reports/Project_Report.pdf">`{=html}
+`<img src="https://img.shields.io/badge/📄-Project_Report-blue?style=for-the-badge">`{=html}
+`</a>`{=html}
 
-<a href="powerbi/Dashboard.pdf">
-<img src="https://img.shields.io/badge/📊%20Dashboard-PDF-orange?style=for-the-badge"/>
-</a>
+`<a href="powerbi/screenshots.pdf">`{=html}
+`<img src="https://img.shields.io/badge/📊-Dashboard_PDF-orange?style=for-the-badge">`{=html}
+`</a>`{=html}
 
+`<a href="https://github.com/nsr-dev-in/study-abroad-intelligence-dashboard">`{=html}
+`<img src="https://img.shields.io/badge/⭐-Star_Repository-yellow?style=for-the-badge">`{=html}
+`</a>`{=html}
+
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🌐 Live Demo
 
-## 🚀 Experience the Web Application
+**Live Website:**\
+http://studyabroadintelligenceplatform-env.eba-gimycafi.eu-north-1.elasticbeanstalk.com/
 
-👉 **Click below to explore the live dashboard**
+Explore the interactive web application to compare study abroad
+destinations based on tuition fees, living expenses, graduate salaries,
+ROI, scholarships, visa success rates, and career opportunities.
 
-### 🔗 [https://YOUR_LIVE_WEBSITE_URL](http://studyabroadintelligenceplatform-env.eba-gimycafi.eu-north-1.elasticbeanstalk.com/)
-
-The live application enables users to compare study abroad destinations based on affordability, graduate salaries, ROI, scholarships, visa success rates, and career opportunities through an interactive interface.
-
----
+------------------------------------------------------------------------
 
 # 📌 Project Overview
 
-Choosing the right country for higher education can be challenging because students need to compare tuition fees, living expenses, graduate salaries, employment opportunities, scholarships, visa success rates, and return on investment (ROI).
+Choosing the right country for higher education is challenging due to
+the need to compare tuition fees, living expenses, graduate salaries,
+employment opportunities, scholarships, visa success rates, and Return
+on Investment (ROI).
 
-This project provides an interactive Business Intelligence Dashboard that transforms raw educational data into meaningful insights, helping Indian students make informed decisions about studying abroad.
+This project transforms raw educational data into an interactive
+Business Intelligence dashboard using **Excel, Python, PostgreSQL, and
+Power BI**, enabling Indian students to make informed, data-driven
+decisions.
 
-The project follows the complete Data Analytics lifecycle from data preprocessing to dashboard development using Excel, Python, PostgreSQL, and Power BI.
-
----
+------------------------------------------------------------------------
 
 # 🎯 Business Problem
 
-Students often rely on scattered information available across multiple websites, making country comparison difficult and time-consuming.
+Students often rely on scattered information from multiple sources,
+making country comparison difficult and time-consuming.
 
-This project solves that problem by integrating educational, financial, career, and visa-related information into a single interactive dashboard.
+This project centralizes educational, financial, career, and
+visa-related data into a single dashboard to simplify decision-making.
 
----
+------------------------------------------------------------------------
 
 # 🎯 Objectives
 
-- Compare study destinations using data-driven insights
-- Analyze tuition fees and living expenses
-- Compare graduate salaries and employment rates
-- Evaluate Return on Investment (ROI)
-- Analyze visa success rates
-- Compare scholarship opportunities
-- Build an interactive Power BI dashboard
-- Help students make better study abroad decisions
+-   Compare study destinations using data-driven insights
+-   Analyze tuition fees and living expenses
+-   Compare graduate salaries and employment rates
+-   Evaluate ROI
+-   Analyze visa success rates
+-   Compare scholarship opportunities
+-   Build an interactive Power BI dashboard
+-   Help students make informed decisions
 
----
+------------------------------------------------------------------------
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-| Technology | Purpose |
-|------------|----------|
-| Microsoft Excel | Data Validation & Cleaning |
-| Python (Pandas) | Data Cleaning & EDA |
-| PostgreSQL | SQL Analysis |
-| Power BI | Dashboard Development |
-| Power Query | Data Transformation |
-| DAX | KPI Calculation |
-| Git & GitHub | Version Control |
+  Technology        Purpose
+  ----------------- ----------------------------
+  Microsoft Excel   Data Validation & Cleaning
+  Python (Pandas)   Data Cleaning & EDA
+  PostgreSQL        SQL Analysis
+  Power BI          Dashboard Development
+  Power Query       Data Transformation
+  DAX               KPI Calculation
+  Git & GitHub      Version Control
 
----
+------------------------------------------------------------------------
 
 # 📂 Dataset Information
 
-| Attribute | Value |
-|------------|---------|
-| Domain | Higher Education Analytics |
-| Countries | 15 |
-| Records | 150 |
-| Features | 21 |
-| Time Period | 2016 – 2025 |
-| File Format | CSV |
+  Attribute     Value
+  ------------- ----------------------------
+  Domain        Higher Education Analytics
+  Countries     15
+  Records       150
+  Features      21
+  Time Period   2016--2025
+  Format        CSV
 
----
+------------------------------------------------------------------------
 
 # 📊 Project Workflow
 
-```text
-                 RAW DATASET
-                      │
-                      ▼
-          Microsoft Excel
-    (Validation & Data Cleaning)
-                      │
-                      ▼
-            Python (Pandas)
-      (EDA + Feature Engineering)
-                      │
-                      ▼
-             PostgreSQL
-          (Business Analysis)
-                      │
-                      ▼
-               Power BI
-     (Interactive Dashboard)
-                      │
-                      ▼
-           Business Insights
+``` text
+Raw Dataset
+    │
+    ▼
+Excel
+    │
+    ▼
+Python (EDA & Feature Engineering)
+    │
+    ▼
+PostgreSQL
+    │
+    ▼
+Power BI Dashboard
+    │
+    ▼
+Business Insights
 ```
 
----
+------------------------------------------------------------------------
 
 # 📷 Dashboard Preview
 
 ## 🏠 Home Page
 
-The landing page introduces the project and provides navigation to all dashboard sections.
+Project landing page.
 
-![Home Page](images/dashbaord/home.png)
+![Home](images/dashboard/home.png)
 
----
+------------------------------------------------------------------------
 
-## 📊 Executive Overview Dashboard
+## 📊 Executive Overview
 
-This page provides a complete overview of the dataset through interactive KPI cards and visualizations.
+KPIs, country comparison, tuition, salary, ROI and trends.
 
-### Highlights
+![Overview](images/dashboard/overview1.jpg)
 
-- 🌍 Total Countries
-- 👨‍🎓 Total Students
-- 💰 Average Tuition Fee
-- 💼 Average Graduate Salary
-- 📈 Average ROI
-- 📊 Country Comparison
-
-![Executive Overview](images/dashbaord/overview1.jpg)
-
----
+------------------------------------------------------------------------
 
 ## 💼 Career & ROI Analytics
 
-Analyze graduate salaries, employment rates, and ROI to identify countries with the best career opportunities.
+Graduate salary, employment and ROI comparison.
 
-### Highlights
+![Career](images/dashboard/career.jpg)
 
-- Employment Rate
-- Graduate Salary
-- ROI Comparison
-- Top Performing Countries
-
-![Career Analysis](images/dashbaord/career.jpg)
-
----
+------------------------------------------------------------------------
 
 ## 🛂 Visa & PR Analysis
 
-Compare visa acceptance rates, visa rejection rates, PR availability, and post-study work opportunities.
+Visa approval, rejection, PR availability and work visa insights.
 
-### Highlights
+![Visa](images/dashboard/visa.jpg)
 
-- Visa Acceptance Rate
-- Visa Rejection Rate
-- PR Availability
-- Post Study Work Visa
-
-![Visa Analysis](images/dashbaord/visa.jpg)
-
----
+------------------------------------------------------------------------
 
 ## 🎯 Student Decision Hub
 
-An intelligent recommendation page that suggests the most suitable country according to the user's preferences.
+Personalized recommendations based on user preferences.
 
-### Highlights
+![Decision Hub](images/dashboard/decision.jpg)
 
-- Budget Selection
-- Expected Salary
-- Visa Acceptance Rate
-- Best Recommended Country
-- Recommendation Score
-
-![Decision Hub](images/dashbaord/decision.jpg)
-
----
+------------------------------------------------------------------------
 
 # 📊 SQL Analysis
 
-Business questions answered using PostgreSQL.
+-   Country Analysis
+-   Study Cost Analysis
+-   ROI Ranking
+-   Visa Success Analysis
+-   Scholarship Ranking
+-   Best Value Countries
+-   Country Summary Reports
 
-- Total Countries
-- Average Annual Study Cost
-- Top Affordable Countries
-- Average Graduate Salary
-- Highest Salary Countries
-- ROI Analysis
-- ROI Ranking
-- Visa Success Rate
-- Scholarship Ranking
-- Best Value Countries
-- Country Summary Report
-
----
+------------------------------------------------------------------------
 
 # 🐍 Python Analysis
 
-Performed using Pandas.
+-   Data Loading
+-   Data Inspection
+-   Missing Value Analysis
+-   Duplicate Analysis
+-   Descriptive Statistics
+-   ROI Calculation
+-   Visa Success Rate
+-   Affordability Score
+-   Export Processed Dataset
 
-- Dataset Loading
-- Data Inspection
-- Descriptive Statistics
-- Missing Value Analysis
-- Duplicate Analysis
-- ROI Feature Engineering
-- Visa Success Rate
-- Affordability Score
-- Export Processed Dataset
-
----
+------------------------------------------------------------------------
 
 # 📌 Power BI Features
 
-- KPI Cards
-- Power Query
-- DAX Measures
-- Interactive Filters
-- Country Slicers
-- Year Slicers
-- Navigation Buttons
-- Cross Filtering
-- Drill Down
-- Dynamic Dashboard
+-   KPI Cards
+-   Interactive Filters
+-   Slicers
+-   DAX Measures
+-   Power Query
+-   Drill Down
+-   Cross Filtering
+-   Navigation Buttons
 
----
+------------------------------------------------------------------------
 
 # 💡 Key Business Insights
 
-✔ Countries offering higher graduate salaries generally have higher tuition costs.
+-   Higher graduate salaries often come with higher tuition fees.
+-   ROI is a stronger decision metric than tuition cost alone.
+-   Visa success rates vary significantly across countries.
+-   Scholarships improve affordability.
+-   Employment opportunities strongly influence ROI.
 
-✔ ROI provides better decision-making than tuition fees alone.
-
-✔ Visa approval rates differ significantly across destinations.
-
-✔ Scholarships improve affordability for international students.
-
-✔ Employment rate directly impacts long-term ROI.
-
-✔ Interactive dashboards simplify country comparison and improve decision-making.
-
----
+------------------------------------------------------------------------
 
 # 🚀 Skills Demonstrated
 
-- Data Cleaning
-- Data Validation
-- Exploratory Data Analysis
-- SQL Query Writing
-- Feature Engineering
-- Dashboard Development
-- KPI Design
-- Business Intelligence
-- Data Storytelling
-- Data Visualization
-- Problem Solving
+-   Data Cleaning
+-   SQL
+-   Python
+-   Power BI
+-   Dashboard Development
+-   Data Visualization
+-   Business Intelligence
+-   KPI Design
+-   Data Storytelling
 
----
-
-# 📁 Repository Structure
-
-```text
-Study-Abroad-Intelligence-Dashboard/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── sql/
-│   └── study_abroad_queries.sql
-│
-├── python/
-│   └── Study_Abroad_EDA.ipynb
-│
-├── powerbi/
-│   ├── Study_Abroad_Dashboard.pbix
-│   └── Dashboard.pdf
-│
-├── reports/
-│   └── Project_Report.pdf
-│
-├── images/
-│   ├── home-page.png
-│   ├── overview-dashboard.png
-│   ├── career-analysis.png
-│   ├── visa-analysis.png
-│   └── decision-hub.png
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
----
+------------------------------------------------------------------------
 
 # 📌 Future Enhancements
 
-- Live API Integration
-- AI-Based Country Recommendation
-- Machine Learning Prediction
-- University-Level Analysis
-- Web Deployment
-- Automated Data Refresh
-- User Authentication
-- Personalized Dashboard
+-   AI Recommendation System
+-   Live API Integration
+-   Predictive Analytics
+-   University-Level Analysis
+-   Automated Data Refresh
 
----
+------------------------------------------------------------------------
 
 # 👨‍💻 Author
 
 ## Nitin Singh
 
-Aspiring Data Analyst passionate about solving business problems through data analytics and visualization.
+**Aspiring Data Analyst \| Excel \| SQL \| Python \| Power BI**
 
-### 📫 Connect with Me
+### 📬 Connect with Me
 
-💼 LinkedIn : YOUR_LINKEDIN_URL
+-   💼 LinkedIn: https://www.linkedin.com/in/nsr2k06/
+-   📧 Email: nsr2k06@gmail.com
+-   💻 GitHub: https://github.com/nsr-dev-in
 
-📧 Email : YOUR_EMAIL
-
-🌐 Portfolio : Coming Soon
-
----
+------------------------------------------------------------------------
 
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-It motivates me to build more real-world Data Analytics projects.
+------------------------------------------------------------------------
 
----
-
-# 🙌 Thank You
-
-Thank you for visiting this repository.
-
-Happy Learning! 🚀
+```{=html}
+<p align="center">
+```
+Made with ❤️ by `<b>`{=html}Nitin Singh`</b>`{=html}
+```{=html}
+</p>
+```
