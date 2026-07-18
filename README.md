@@ -44,7 +44,7 @@ An End-to-End <b>Data Analytics & Business Intelligence</b> project that helps I
 
 ---
 
-<h2 align="center">📌 Project Overview</h2>
+<h1 align="center">📌 Project Overview</h1>
 
 # 📌 Project Overview
 
