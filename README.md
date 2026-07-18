@@ -75,7 +75,7 @@ This project solves that problem by integrating educational, financial, career, 
 
 ---
 
-# 🛠 Tech Stack
+<h1 align="center">🛠 Tech Stack</h1>
 
 | Technology | Purpose |
 |------------|----------|
@@ -89,7 +89,7 @@ This project solves that problem by integrating educational, financial, career, 
 
 ---
 
-# 📂 Dataset Information
+<h1 align="center">📂 Dataset Information</h1>
 
 | Attribute | Value |
 |------------|---------|
@@ -102,7 +102,7 @@ This project solves that problem by integrating educational, financial, career, 
 
 ---
 
-# 📊 Project Workflow
+<h1 align="center">📊 Project Workflow</h1>
 
 <p align="center">
   <img src="images/workflow.png" alt="Project Workflow" width="450">
@@ -110,7 +110,7 @@ This project solves that problem by integrating educational, financial, career, 
 
 ---
 
-# 📷 Dashboard Preview
+<h1 align="center">📷 Dashboard Preview</h1>
 
 ## 🏠 Home Page
 
@@ -183,7 +183,7 @@ An intelligent recommendation page that suggests the most suitable country accor
 
 ---
 
-# 📊 SQL Analysis
+<h1 align="center">📊 SQL Analysis</h1>
 
 Business questions answered using PostgreSQL.
 
@@ -201,7 +201,7 @@ Business questions answered using PostgreSQL.
 
 ---
 
-# 🐍 Python Analysis
+<h1 align="center">🐍 Python Analysis</h1>
 
 Performed using Pandas.
 
@@ -217,7 +217,7 @@ Performed using Pandas.
 
 ---
 
-# 📌 Power BI Features
+<h1 align="center">📌 Power BI Features</h1>
 
 - KPI Cards
 - Power Query
@@ -232,7 +232,7 @@ Performed using Pandas.
 
 ---
 
-# 💡 Key Business Insights
+<h1 align="center">💡 Key Business Insights</h1>
 
 ✔ Countries offering higher graduate salaries generally have higher tuition costs.
 
@@ -248,7 +248,7 @@ Performed using Pandas.
 
 ---
 
-# 🚀 Skills Demonstrated
+<h1 align="center">🚀 Skills Demonstrated</h1>
 
 - Data Cleaning
 - Data Validation
@@ -264,7 +264,7 @@ Performed using Pandas.
 
 ---
 
-# 📌 Future Enhancements
+<h1 align="center">📌 Future Enhancements</h1>
 
 - Live API Integration
 - AI-Based Country Recommendation
@@ -277,7 +277,7 @@ Performed using Pandas.
 
 ---
 
-## 👨‍💻 Author
+<h1 align="center">👨‍💻 Author</h1>
 
 ### Nitin Singh
 
@@ -299,7 +299,7 @@ Aspiring Data Analyst passionate about solving real-world business problems thro
 
 </p>
 
-## ⭐ Support
+<h1 align="center">⭐ Support</h1>
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
@@ -311,7 +311,7 @@ Made with ❤️ by **Nitin Singh**
 
 </p>
 
-# 🙌 Thank You
+<h1 align="center">🙌 Thank You</h1>
 
 Thank you for visiting this repository.
 
