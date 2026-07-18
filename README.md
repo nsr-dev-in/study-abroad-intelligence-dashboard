@@ -77,7 +77,6 @@ This project solves that problem by integrating educational, financial, career, 
 
 <h1 align="center">🛠 Tech Stack</h1>
 
-</p>
 
 | Technology | Usage |
 |------------|-------|
