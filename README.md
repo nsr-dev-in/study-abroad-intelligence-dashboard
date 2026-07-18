@@ -233,21 +233,27 @@ Performed using Pandas.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-## Nitin Singh
+### Nitin Singh
 
-Aspiring Data Analyst passionate about solving business problems through data analytics and visualization.
+Aspiring Data Analyst passionate about solving real-world business problems through data analytics, SQL, Python, and Power BI.
 
-### 📫 Connect with Me
+<p align="left">
 
-💼 LinkedIn : https://www.linkedin.com/in/nsr2k06/
+<a href="https://www.linkedin.com/in/nsr2k06/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-📧 Email : nsr2k06@gmail.com
+<a href="https://github.com/nsr-dev-in">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-🌐 GitHub : https://github.com/nsr-dev-in
+<a href="mailto:nsr2k06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
----
+</p>
 
 ## ⭐ Support
 
