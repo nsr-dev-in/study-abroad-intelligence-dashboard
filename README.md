@@ -60,36 +60,9 @@ This project solves that problem by integrating educational, financial, career, 
 
 # 📊 Project Workflow
 
-![Project Workflow](images/workflow.png)
-
-# 📊 Project Workflow
-
 <p align="center">
   <img src="images/workflow.png" alt="Project Workflow" width="450">
 </p>
-
-```text
-                 RAW DATASET
-                      │
-                      ▼
-          Microsoft Excel
-    (Validation & Data Cleaning)
-                      │
-                      ▼
-            Python (Pandas)
-      (EDA + Feature Engineering)
-                      │
-                      ▼
-             PostgreSQL
-          (Business Analysis)
-                      │
-                      ▼
-               Power BI
-     (Interactive Dashboard)
-                      │
-                      ▼
-           Business Insights
-```
 
 ---
 
