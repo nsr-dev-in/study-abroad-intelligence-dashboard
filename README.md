@@ -91,7 +91,7 @@ This project solves that problem by integrating educational, financial, career, 
 
 The landing page introduces the project and provides navigation to all dashboard sections.
 
-![Home Page](images/dashboard/home.jpg)
+![Home Page](images/dashboard/home.png)
 
 ---
 
@@ -296,11 +296,11 @@ Aspiring Data Analyst passionate about solving business problems through data an
 
 ### 📫 Connect with Me
 
-💼 LinkedIn : YOUR_LINKEDIN_URL
+💼 LinkedIn : https://www.linkedin.com/in/nsr2k06/
 
-📧 Email : YOUR_EMAIL
+📧 Email : nsr2k06@gmail.com
 
-🌐 Portfolio : Coming Soon
+🌐 GitHub : https://github.com/nsr-dev-in
 
 ---
 
