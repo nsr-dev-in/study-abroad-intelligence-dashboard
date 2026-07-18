@@ -150,7 +150,7 @@ This page provides a complete overview of the dataset through interactive KPI ca
 - 📈 Average ROI
 - 📊 Country Comparison
 
-![Executive Overview](images/dashbaord/overview.jpg)
+![Executive Overview](images/dashbaord/overview1.jpg)
 
 ---
 
