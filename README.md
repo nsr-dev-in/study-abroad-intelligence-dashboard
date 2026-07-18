@@ -1,47 +1,5 @@
 # 🎓 Study Abroad Intelligence Dashboard for Indian Students
 
-> An End-to-End Data Analytics & Business Intelligence project that helps Indian students compare international study destinations using interactive dashboards and data-driven insights.
-
-<p align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Pandas-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
-
-</p>
-
-<p align="center">
-
-<a href="YOUR_LIVE_WEBSITE_URL">
-<img src="https://img.shields.io/badge/🚀%20Live-Demo-success?style=for-the-badge"/>
-</a>
-
-<a href="reports/Project_Report.pdf">
-<img src="https://img.shields.io/badge/📄%20Project-Report-blue?style=for-the-badge"/>
-</a>
-
-<a href="powerbi/Dashboard.pdf">
-<img src="https://img.shields.io/badge/📊%20Dashboard-PDF-orange?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 🌐 Live Demo
-
-## 🚀 Experience the Web Application
-
-👉 **Click below to explore the live dashboard**
-
-### 🔗 https://YOUR_LIVE_WEBSITE_URL
-
-The live application enables users to compare study abroad destinations based on affordability, graduate salaries, ROI, scholarships, visa success rates, and career opportunities through an interactive interface.
-
----
-
 # 📌 Project Overview
 
 Choosing the right country for higher education can be challenging because students need to compare tuition fees, living expenses, graduate salaries, employment opportunities, scholarships, visa success rates, and return on investment (ROI).
