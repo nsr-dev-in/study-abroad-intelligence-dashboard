@@ -239,42 +239,6 @@ Performed using Pandas.
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Study-Abroad-Intelligence-Dashboard/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── sql/
-│   └── study_abroad_queries.sql
-│
-├── python/
-│   └── Study_Abroad_EDA.ipynb
-│
-├── powerbi/
-│   ├── Study_Abroad_Dashboard.pbix
-│   └── Dashboard.pdf
-│
-├── reports/
-│   └── Project_Report.pdf
-│
-├── images/
-│   ├── home-page.png
-│   ├── overview-dashboard.png
-│   ├── career-analysis.png
-│   ├── visa-analysis.png
-│   └── decision-hub.png
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
----
-
 # 📌 Future Enhancements
 
 - Live API Integration
