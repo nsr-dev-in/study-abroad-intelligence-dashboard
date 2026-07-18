@@ -46,8 +46,6 @@ An End-to-End <b>Data Analytics & Business Intelligence</b> project that helps I
 
 <h1 align="center">📌 Project Overview</h1>
 
-# 📌 Project Overview
-
 Choosing the right country for higher education can be challenging because students need to compare tuition fees, living expenses, graduate salaries, employment opportunities, scholarships, visa success rates, and return on investment (ROI).
 
 This project provides an interactive Business Intelligence Dashboard that transforms raw educational data into meaningful insights, helping Indian students make informed decisions about studying abroad.
@@ -56,7 +54,7 @@ The project follows the complete Data Analytics lifecycle from data preprocessin
 
 ---
 
-# 🎯 Business Problem
+<h1 align="center">🎯 Business Problem</h1>
 
 Students often rely on scattered information available across multiple websites, making country comparison difficult and time-consuming.
 
@@ -64,7 +62,7 @@ This project solves that problem by integrating educational, financial, career, 
 
 ---
 
-# 🎯 Objectives
+<h1 align="center">🎯 Objectives</h1>
 
 - Compare study destinations using data-driven insights
 - Analyze tuition fees and living expenses
