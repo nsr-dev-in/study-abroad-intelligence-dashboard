@@ -60,6 +60,8 @@ This project solves that problem by integrating educational, financial, career, 
 
 # 📊 Project Workflow
 
+![Project Workflow](images/workflow.png)
+
 ```text
                  RAW DATASET
                       │
