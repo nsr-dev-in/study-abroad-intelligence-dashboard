@@ -165,7 +165,7 @@ Analyze graduate salaries, employment rates, and ROI to identify countries with 
 - ROI Comparison
 - Top Performing Countries
 
-![Career Analysis](images/dashbaord/career.png)
+![Career Analysis](images/dashbaord/career.jpg)
 
 ---
 
@@ -180,7 +180,7 @@ Compare visa acceptance rates, visa rejection rates, PR availability, and post-s
 - PR Availability
 - Post Study Work Visa
 
-![Visa Analysis](images/dashbaord/visa.png)
+![Visa Analysis](images/dashbaord/visa.jpg)
 
 ---
 
@@ -196,7 +196,7 @@ An intelligent recommendation page that suggests the most suitable country accor
 - Best Recommended Country
 - Recommendation Score
 
-![Decision Hub](images/dashbaord/decision.png)
+![Decision Hub](images/dashbaord/decision.jpg)
 
 ---
 
