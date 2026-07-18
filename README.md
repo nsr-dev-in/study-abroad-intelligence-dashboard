@@ -150,7 +150,7 @@ This page provides a complete overview of the dataset through interactive KPI ca
 - 📈 Average ROI
 - 📊 Country Comparison
 
-![Executive Overview](images/overview-dashboard.png)
+![Executive Overview](images/dashbaord/overview.png)
 
 ---
 
@@ -165,7 +165,7 @@ Analyze graduate salaries, employment rates, and ROI to identify countries with 
 - ROI Comparison
 - Top Performing Countries
 
-![Career Analysis](images/career-analysis.png)
+![Career Analysis](images/dashbaord/career.png)
 
 ---
 
@@ -180,7 +180,7 @@ Compare visa acceptance rates, visa rejection rates, PR availability, and post-s
 - PR Availability
 - Post Study Work Visa
 
-![Visa Analysis](images/visa-analysis.png)
+![Visa Analysis](images/dashbaord/visa.png)
 
 ---
 
@@ -196,7 +196,7 @@ An intelligent recommendation page that suggests the most suitable country accor
 - Best Recommended Country
 - Recommendation Score
 
-![Decision Hub](images/decision-hub.png)
+![Decision Hub](images/dashbaord/decision.png)
 
 ---
 
