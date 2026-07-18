@@ -77,16 +77,6 @@ This project solves that problem by integrating educational, financial, career, 
 
 <h1 align="center">🛠 Tech Stack</h1>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
 </p>
 
 | Technology | Usage |
@@ -98,16 +88,6 @@ This project solves that problem by integrating educational, financial, career, 
 | ⚡ Power Query | ETL & Data Transformation |
 | 🧮 DAX | KPI & Business Metrics |
 | 🌐 Git & GitHub | Version Control |
-
-| Technology | Purpose |
-|------------|----------|
-| Microsoft Excel | Data Validation & Cleaning |
-| Python (Pandas) | Data Cleaning & EDA |
-| PostgreSQL | SQL Analysis |
-| Power BI | Dashboard Development |
-| Power Query | Data Transformation |
-| DAX | KPI Calculation |
-| Git & GitHub | Version Control |
 
 ---
 
