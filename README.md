@@ -1,4 +1,48 @@
-# 🎓 Study Abroad Intelligence Dashboard for Indian Students
+<p align="center">
+  <img src="images/banner.png" alt="Study Abroad Intelligence Dashboard Banner" width="100%">
+</p>
+
+<h1 align="center">🎓 Study Abroad Intelligence Dashboard for Indian Students</h1>
+
+<p align="center">
+An End-to-End <b>Data Analytics & Business Intelligence</b> project that helps Indian students compare study abroad destinations using <b>Excel, Python, PostgreSQL, and Power BI</b>.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/Python-Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/PostgreSQL-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+<img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+<a href="http://studyabroadintelligenceplatform-env.eba-gimycafi.eu-north-1.elasticbeanstalk.com/">
+<img src="https://img.shields.io/badge/🚀-Live_Demo-success?style=for-the-badge">
+</a>
+
+<a href="https://github.com/nsr-dev-in/study-abroad-intelligence-dashboard">
+<img src="https://img.shields.io/badge/💻-Source_Code-black?style=for-the-badge">
+</a>
+
+<a href="reports/Project_Report.pdf">
+<img src="https://img.shields.io/badge/📄-Project_Report-blue?style=for-the-badge">
+</a>
+
+<a href="powerbi/screenshots.pdf">
+<img src="https://img.shields.io/badge/📊-Dashboard_PDF-orange?style=for-the-badge">
+</a>
+
+</p>
+
+---
 
 # 📌 Project Overview
 
