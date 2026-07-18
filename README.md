@@ -44,6 +44,8 @@ An End-to-End <b>Data Analytics & Business Intelligence</b> project that helps I
 
 ---
 
+<h2 align="center">📌 Project Overview</h2>
+
 # 📌 Project Overview
 
 Choosing the right country for higher education can be challenging because students need to compare tuition fees, living expenses, graduate salaries, employment opportunities, scholarships, visa success rates, and return on investment (ROI).
